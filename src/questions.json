@@ -9,21 +9,6 @@
         "Nenhuma"
       ],
       "correct": 0
-    },
-    {
-      "question": "O que “1” + 2 + 4 retorna?",
-      "options": ["124", "7", "NaN", "Undefined"],
-      "correct": 0
-    },
-    {
-      "question": "Como você altera o estilo ou classe de um elemento?",
-      "options": [
-        "document.getElementById(“myElement”).style.fontSize = “20”;",
-        "document.getElementById(“myElement”).className = “anyclass”;",
-        "document.getElementById(“myElement”).style.className = “anyclass”;",
-        "Todas as opções"
-      ],
-      "correct": 3
     }
   ]
 }
