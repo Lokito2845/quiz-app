@@ -95,5 +95,7 @@ function carregarPergunta(): void {
       console.error("Erro durante a requisição fetch:", error);
     });
 
+
+
     
 }
